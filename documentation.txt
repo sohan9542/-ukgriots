@@ -1,0 +1,14 @@
+Admin panel documentation
+
+Those things are required
+1. Npm
+----------------------------------
+To install the all the packages Locally:
+  
+1. You need to Open "Souce Code" Folder and run command "npm install"
+2. to start the application you need to run "npm start"
+
+
+Folder structure 
+1. Src folder have all the source code 
+2. The main file is "App.js"
